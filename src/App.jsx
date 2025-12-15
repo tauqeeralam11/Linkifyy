@@ -158,7 +158,7 @@ function App() {
         <div className="w-full max-w-2xl mt-20 mb-10 border-t border-white/10 pt-10">
             <h3 className="text-2xl font-bold text-center mb-8">Frequently Asked Questions</h3>
             <div className="space-y-2">
-                <FaqItem question="Is Linkify free to use?" answer="Yes, Linkify is completely free for personal and commercial use. You can create unlimited links." />
+                <FaqItem question="Is Linkifyy free to use?" answer="Yes, Linkifyy is completely free for personal and commercial use. You can create unlimited links." />
                 <FaqItem question="Do links expire?" answer="No, your links will remain active indefinitely unless you choose to delete them or update them." />
                 <FaqItem question="Can I track my link's performance?" answer="Absolutely. Our dashboard provides real-time analytics including total clicks and device breakdowns (Mobile vs Desktop)." />
                 <FaqItem question="What happens if I lose my PIN?" answer="For security reasons, we cannot recover PINs. We recommend saving your PIN or checking the 'Recent Links' section on the device you used to create the link." />
