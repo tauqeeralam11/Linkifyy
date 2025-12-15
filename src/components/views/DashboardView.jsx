@@ -67,7 +67,7 @@ const DashboardView = ({
               
               <div><label className="text-xs font-bold text-zinc-500 uppercase">Alias</label>
                   <div className="flex mt-2 bg-white/5 border border-white/10 rounded-xl p-4 items-center focus-within:border-indigo-500 transition-colors">
-                      <span className="text-zinc-500 font-mono select-none">linkify.app/</span>
+                      <span className="text-zinc-500 font-mono select-none">linkifyy.netlify.app/</span>
                       <input type="text" className="bg-transparent flex-1 text-zinc-200 outline-none font-mono ml-0.5"
                           value={editAlias} onChange={(e) => setEditAlias(e.target.value.replace(/[^a-zA-Z0-9-_]/g, ''))}/>
                   </div>
