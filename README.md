@@ -16,13 +16,6 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   </p>
-
-  <p>
-    <a href="#key-features">Key Features</a> •
-    <a href="#getting-started">Getting Started</a> •
-    <a href="#database-setup">Database Setup</a> •
-    <a href="#author">Author</a>
-  </p>
 </div>
 
 ---
