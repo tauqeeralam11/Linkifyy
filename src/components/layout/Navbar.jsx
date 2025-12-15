@@ -5,7 +5,7 @@ const Navbar = ({ activeTab, setActiveTab, setDashboardData, setNewLink }) => {
           
           <div className="flex items-center gap-2 sm:gap-3 pl-2 sm:pl-4 cursor-pointer shrink-0" onClick={() => window.location.reload()}>
               <img src="/logo.png" alt="Logo" className="w-7 h-7 sm:w-8 sm:h-8 rounded-full border border-white/10" />
-              <span className="font-bold tracking-tight text-white text-base sm:text-lg">Linkify</span>
+              <span className="font-bold tracking-tight text-white text-base sm:text-lg">Linkifyy</span>
           </div>
 
           <div className="flex bg-black/40 rounded-full p-1 border border-white/5 shrink-0">
