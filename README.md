@@ -44,7 +44,7 @@
 
 * **Frontend:** React.js (Vite)
 * **Styling:** Tailwind CSS + Lucide React Icons
-* **Backend:** Supabase (PostgreSQL + Realtime)
+* **Backend:** Supabase
 * **Utilities:** `nanoid` (ID generation), `qrcode.react`
 
 ---
