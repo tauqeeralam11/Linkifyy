@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="public/logo.png" alt="Linkify Logo" width="100" height="100" />
+  <img src="public/logo.png" alt="Linkifyy Logo" width="100" height="100" />
   
-  # Linkify
+  # Linkifyy
   
   <h3><strong>Shorten links. Expand reach.</strong></h3>
 
@@ -31,7 +31,7 @@
 ## 🚀 Key Features
 
 * **⚡ Instant Shortening:** Generate short links instantly without a login wall.
-* **🎨 Custom Aliases:** Create branded links (e.g., `linkify.app/my-brand`).
+* **🎨 Custom Aliases:** Create branded links (e.g., `linkifyy.netlify.app/my-brand`).
 * **📊 Smart Analytics:** Track total clicks and see device breakdowns (Mobile vs. Desktop vs. Tablet).
 * **📱 Fully Responsive:** A sleek, dark mode UI that looks great on all devices.
 * **🔐 PIN Protection:** Securely edit or delete your links using a unique 6-digit PIN.
@@ -51,12 +51,12 @@
 
 ## 🏁 Getting Started
 
-Follow these steps to run Linkify on your local machine.
+Follow these steps to run Linkifyy on your local machine.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/tauqeeralam/linkify.git](https://github.com/tauqeeralam/Linkify.git)
-cd linkify
+git clone https://github.com/tauqeeralam/Linkifyy.git
+cd linkifyy
 ```
 
 ### 2. Install dependencies
