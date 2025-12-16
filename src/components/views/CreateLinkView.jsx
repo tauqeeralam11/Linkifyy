@@ -31,7 +31,7 @@ const CreateLinkView = ({ urlInput, setUrlInput, customAlias, setCustomAlias, ha
               </div>
               
               <div className="bg-black border border-white/10 rounded-2xl px-6 py-4 flex items-center shadow-lg">
-                  <span className="text-zinc-500 text-base font-mono shrink-0 select-none">linkify.app/</span>
+                  <span className="text-zinc-500 text-base font-mono shrink-0 select-none">linkifyy.netlify.app/</span>
                   <input type="text" placeholder="alias (optional)" className="bg-transparent flex-1 text-base text-white outline-none font-mono ml-0.5 placeholder-zinc-500"
                       value={customAlias} onChange={(e) => setCustomAlias(e.target.value.replace(/[^a-zA-Z0-9-_]/g, ''))} maxLength={20}/>
               </div>
@@ -44,7 +44,7 @@ const CreateLinkView = ({ urlInput, setUrlInput, customAlias, setCustomAlias, ha
         
         <div className="hidden sm:flex justify-center pt-2">
            <div className="bg-white/5 border border-white/10 rounded-xl px-5 py-4 flex items-center w-full max-w-md focus-within:border-indigo-500/50 transition-colors">
-              <span className="text-zinc-500 text-base font-mono shrink-0 select-none">linkify.app/</span>
+              <span className="text-zinc-500 text-base font-mono shrink-0 select-none">linkifyy.netlify.app/</span>
               <input type="text" placeholder="alias (optional)" className="bg-transparent flex-1 text-base text-white outline-none font-mono ml-0.5 placeholder-zinc-600"
                   value={customAlias} onChange={(e) => setCustomAlias(e.target.value.replace(/[^a-zA-Z0-9-_]/g, ''))} maxLength={20}/>
            </div>
@@ -55,3 +55,4 @@ const CreateLinkView = ({ urlInput, setUrlInput, customAlias, setCustomAlias, ha
 };
 
 export default CreateLinkView;
+
